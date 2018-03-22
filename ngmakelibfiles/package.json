@@ -1,0 +1,33 @@
+{
+  "name": "ngmakelib",
+  "version": "0.2.0",
+  "homepage": "https://github.com/fintechneo/ngmakelib",
+  "scripts": {
+    "build": "tsc && rollup -c rollup-conf-build.js && chmod a+x bin/ngmakelib.js",
+    "test": "mocha-typescript-watch -p test/tsconfig.json build/test/test.js"
+  },
+  "main": "bin/ngmakelib.api.js",
+  "bin": {
+    "ngmakelib": "bin/ngmakelib.js"
+  },
+  "devDependencies": {
+    "@angular/compiler": "",
+    "@angular/core": "",
+    "rxjs": "",
+    "@types/node": "^8.0.34",
+    "@types/rollup": "^0.51.4",
+    "@types/shelljs": "^0.7.7",
+    "mocha": "^4.1.0",
+    "mocha-typescript": "^1.1.12",
+    "rollup-plugin-shebang": "^0.1.4",
+    "rollup-plugin-uglify": "",
+    "typescript": ""
+  },
+  "dependencies": {
+    "cpx": "",
+    "rollup": "^0.50.0",
+    "shelljs": "^0.7.8",
+    "node-sass": "",
+    "@angular/compiler-cli": ""
+  }
+}
