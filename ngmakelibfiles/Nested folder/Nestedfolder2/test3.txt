@@ -1,5 +1,0 @@
-New commit from the browser
-
-Testing new simple text editor
-
-Adding line
