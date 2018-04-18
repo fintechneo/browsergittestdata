@@ -6,7 +6,7 @@ Adding line
 
 1
 2
-3
+3 changed from 1
 4
 
 5
