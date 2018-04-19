@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 abc BOTH ARE MODIFYING (chrome)
 
 defg
+||||||| Merge with remote
+abcdefg
+=======
+abc BOTH ARE MODIFYING (Firefox)
+defg
+>>>>>>> c6bb6ecac1c4d27319795d8f61ae5753215d6003
+
+This is the resolved version
