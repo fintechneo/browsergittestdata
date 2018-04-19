@@ -1,1 +1,2 @@
-abcdefg
+abc BOTH ARE MODIFYING (Firefox)
+defg
