@@ -1,1 +1,3 @@
-abcdefg
+abc BOTH ARE MODIFYING (chrome)
+
+defg
