@@ -2,4 +2,6 @@ Hello - this is a test file
 
 and modified.
 
+and a little change from here.
+
 Testing push without 0\r\n\rn after push footer (eclipse JGIT wanted EOF and complained about this.)
