@@ -4,3 +4,5 @@ Change in testdir
 Test change
 
 another change
+
+Testing changing
