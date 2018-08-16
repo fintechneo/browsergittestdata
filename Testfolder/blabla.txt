@@ -10,3 +10,5 @@ defg
 >>>>>>> c6bb6ecac1c4d27319795d8f61ae5753215d6003
 
 This is the resolved version
+
+Now adding to the log
