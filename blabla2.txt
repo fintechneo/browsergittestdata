@@ -1,4 +1,4 @@
-aerwerwetewt
+Conflict make
 
 Change in testdir
 Test change
