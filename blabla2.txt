@@ -1,5 +1,4 @@
-Make conflict
-
+abcdef
 Change in testdir
 Test change
 
