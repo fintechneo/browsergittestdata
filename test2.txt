@@ -2,6 +2,7 @@ New commit from the browser
 
 Adding some lines
 
+ABCDEF
 1
 2
 3
