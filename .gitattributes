@@ -1,3 +1,4 @@
 *.mp3 filter=lfs diff=lfs merge=lfs -text
 
 PMC-AlphaAndOmega.dms filter=lfs diff=lfs merge=lfs -text
+PMC-Slintro filter=lfs diff=lfs merge=lfs -text
